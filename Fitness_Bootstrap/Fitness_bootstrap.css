@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(107, 20, 20);
+}
+.nav-item{
+    padding-left: 50px;
+   
+}
+.nav-item a{
+    color: rgb(0, 252, 248);
+}
+.carousel .carousel-item{
+    height: 700px;
+}
+
+.color-card{
+    float: left;
+   margin: 20px;
+  
+}
+.card-body .card-T{
+    font-size: 37px;
+}
+.card-body .card-t{
+    font-size: 19px;
+    text-align: center;
+    line-height: 70px;
+}
+.card1{
+    margin-left: 130px;
+}
+.card-title{
+    font-size: 18px;
+}
+.card-text{
+    text-align: left;
+    font-size: 14px;
+}
+
+.About{
+    height: 400px;
+    width: 100%;
+}
+.About .img1{
+    height: 300px;
+    width: 100%;
+}
+.card3{
+    height: 200px;
+    width: 300px;
+    /* padding-left: 20%; */
+}
+.s-card{
+    width: 70%;
+    padding-left: 10%;
+    margin-left: 15%;
+}
